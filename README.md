@@ -44,6 +44,6 @@ Breno Miguel Soares da Silva - 01607454
 Caio Gomes Ferrão D'avila - 01600639
 Davi dos Santos Lima - 01358277
 Flavio José de Albuquerque Barbosa - 01648810
-Hugo Duarte - 635828
+Hugo Duarte 01635828
 Luiz Fellipe Nunes Sassaki - 01608282
 Pedro dutra de Albuquerque Macedo - 01602996
