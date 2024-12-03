@@ -38,3 +38,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Grupo:
+Breno Miguel Soares da Silva - 01607454
+Caio Gomes Ferrão D'avila - 01600639
+Davi dos Santos Lima - 01358277
+Flavio José de Albuquerque Barbosa - 01648810
+Hugo Duarte - 635828
+Luiz Fellipe Nunes Sassaki - 01608282
+Pedro dutra de Albuquerque Macedo - 01602996
